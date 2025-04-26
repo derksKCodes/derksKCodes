@@ -1,5 +1,6 @@
 ## 📬 Let’s Connect!
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derks01) 
 * 🐙 [GitHub](github.com/derksKCodes)
 * 🔗 [LinkedIn ](https://ke.linkedin.com/in/derks01?trk=people-guest_people_search-card)
 * 🌍 [My Portfolio](https://derkskcodes.github.io/Portfolio-Web/)
