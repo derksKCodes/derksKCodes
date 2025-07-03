@@ -3,7 +3,7 @@
 * 🐙 [GitHub](github.com/derksKCodes)
   
 * 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derks01) 
-* 🌍 [My Portfolio](https://derkskcodes.github.io/Portfolio-Web/)
+* 🌍 [My Portfolio](https://my-portfolio-project-dk-jr.vercel.app/)
 
 # 💻 Tech Stack:
 
