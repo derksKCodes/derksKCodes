@@ -1,7 +1,7 @@
 ## 📬 Let’s Connect!
 
 <p >
-  <a href="https://www.linkedin.com/in/derks01" target="_blank">
+  <a href="https://ke.linkedin.com/in/derks01?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/derksKCodes" target="_blank">
