@@ -1,6 +1,6 @@
 ## 📬 Let’s Connect!
 
-🐙 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/derksKCodes) || 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derks01) || 🌍 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=internet-explorer&logoColor=white)](https://my-portfolio-project-dk-jr.vercel.app/)
+🐙 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/derksKCodes)  🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derks01)  🌍 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=internet-explorer&logoColor=blue)](https://my-portfolio-project-dk-jr.vercel.app/)
 
 # 💻 Tech Stack:
 
