@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=derksKCodes&icon=0&color=0" />
+  <img src="https://www.canva.com/design/DAGs8pgheo0/neWfQg0nkH46-MrOtAvi6Q/edit?utm_content=DAGs8pgheo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 </p>
 
 ## 🧑‍💻 About Me
