@@ -1,7 +1,5 @@
-<p >
-  <img src="https://www.canva.com/design/DAGs8pgheo0/neWfQg0nkH46-MrOtAvi6Q/edit?utm_content=DAGs8pgheo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
-</p>
-
+![Derrick - Full-Stack Software Developer](./image.png)
+---
 ## 🧑‍💻 About Me
 
 I’m Derrick Karanja, a Full-Stack Developer with a strong focus on Python, JavaScript, and Flutter. I build clean, scalable web and mobile applications, integrate AI, and work with tools like Firebase, Django, and cloud platforms like AWS and Azure.
@@ -21,6 +19,11 @@ I enjoy working on real-world projects, from automation scripts to production-re
     <img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+- [Project Name](link) — Short description of what it does.
+- [Another Project](link) — Brief summary.
 
 # 💻 Tech Stack:
 
