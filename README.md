@@ -22,8 +22,8 @@ I enjoy working on real-world projects, from automation scripts to production-re
 
 ## 🚀 Featured Projects
 
-- [Project Name](link) — Short description of what it does.
-- [Another Project](link) — Brief summary.
+- [Flyer AI](https://flyerai.vercel.app/) — AI-powered poster maker that helps users generate beautiful fliers (with templates, AI text, images).
+- [WhatsApp Microlearning Coach](https://whatsapp-microlearning.onrender.com/) — The WhatsApp Microlearning Coach is a comprehensive, full-stack system designed to revolutionize educational content delivery directly to users via WhatsApp.
 
 # 💻 Tech Stack:
 
