@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=derksKCodes&icon=0&color=0" />
+</p>
+---
+## 🧑‍💻 About Me
+
+I’m Derrick Karanja, a Full-Stack Developer with a strong focus on Python, JavaScript, and Flutter. I build clean, scalable web and mobile applications, integrate AI, and work with tools like Firebase, Django, and cloud platforms like AWS and Azure.
+
+I enjoy working on real-world projects, from automation scripts to production-ready apps. Whether it’s scraping data, building REST APIs, or deploying apps to the cloud — I get it done.
+
 ## 📬 Let’s Connect!
 
 <p >
